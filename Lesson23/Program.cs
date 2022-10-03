@@ -93,4 +93,4 @@ public class OpenWeatherService
         public int deg { get; set; }
         public double gust { get; set; }
     }
-
+//checked
